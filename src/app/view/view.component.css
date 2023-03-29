@@ -1,0 +1,10 @@
+img{
+	width: 300px;
+	height: 300px;
+
+}.card-body{
+		text-align: center;
+		border: 1px solid black;
+		padding: 40px;
+		text-decoration: none;
+	}
